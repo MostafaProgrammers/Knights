@@ -1,6 +1,6 @@
 token=NTkyMzg1Nzk0Njg2MzIwNjYw.XQ-lCg.KyDg7js3ZLCmUWqSOcnBkRO8Jro
-owner=567694723679125514
-prefix=1
-game=1Play.
+owner=430486641489084466
+prefix=/
+game=ore_tube
 stayinchannel=true
 songinstatus=true
